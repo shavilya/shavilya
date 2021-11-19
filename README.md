@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Shavilya Rajput
+### Hi there 👋, my name is Shavilya Rajput 👨‍💻
 #### I am a student of BE IT (Hons) at PES Modern College Pune.
 <img src="https://i.pinimg.com/564x/ce/0c/84/ce0c8418807c13abbb252fef01fc414a.jpg" alt="Data Scince Image">
 
