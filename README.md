@@ -14,7 +14,9 @@
 ⚡ Fun fact: 41 percent of the data in the data science pipeline comes from public data.
 <br>
 
-Skills: PYTHON | MACHINE LEARNING | SQL | TABLEAU | HTML | CSS
+### 🤹 Skills: 
+<br>
+PYTHON | MACHINE LEARNING | SQL | TABLEAU | HTML | CSS
 
 
 
