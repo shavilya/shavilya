@@ -16,7 +16,7 @@
 
 ### 🤹 Skills: 
 <br>
-PYTHON | MACHINE LEARNING | SQL | TABLEAU | HTML | CSS
+  PYTHON | MACHINE LEARNING | SQL | POWERBI | TABLEAU | HTML | CSS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shavilya)](https://github.com/anuraghazra/github-readme-stats)
 
