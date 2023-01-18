@@ -18,7 +18,7 @@
 <br>
   PYTHON | MACHINE LEARNING | SQL | POWERBI | TABLEAU | HTML | CSS
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shavilya)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=shavilya)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
