@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Shavilya Rajput 👨‍💻
-#### I did  BE IT (Hons) at PES Modern College Pune in 2023. 
+#### I did  BE IT (Hons) at PES Modern College Pune in 2022. 
 <img src="https://www.kdnuggets.com/wp-content/uploads/data-word-cloud.jpg" alt="Data Scince Image">
 
 ## 🚀 About Me
